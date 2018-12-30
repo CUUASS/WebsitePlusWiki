@@ -124,7 +124,13 @@ wfLoadSkin( 'MonoBook' );
 wfLoadSkin( 'Timeless' );
 wfLoadSkin( 'Vector' );
 
+$wgGroupPermissions['*']['edit'] = false;
+$wgArticleCountMethod = 'any';
+$wgUseCommaCount = true;
 
 # End of automatically generated settings.
 # Add more configuration options below.
+
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+wfLoadExtension( 'CategoryTree' );
 
