@@ -1,6 +1,6 @@
 body { 
-	/* the official cambridge blue, with 40% opacity
+	/* the official cambridge blue, with 60% opacity
 	 * check out the corresponding wiki page:
 	 * https://en.wikipedia.org/wiki/Cambridge_Blue_(colour) */
-	background-color: rgba(163,193,173,0.4);
+	background-color: rgba(163,193,173,0.6);
 }

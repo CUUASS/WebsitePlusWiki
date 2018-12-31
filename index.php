@@ -39,6 +39,28 @@ We are a relatively new student-run society founded in October 2017 by two CUED 
 </div>
 </div>
 </div>
+
+<h1 style="padding:40px"></h1>
+<div class="w3-padding-16 w3-center">
+<h2>Our Sponsors</h2>
+<h1 style="padding:10px"></h1>
+<div class="w3-center">
+<img src="images/sponsors/boeing.png" height="100" alt="Boeing logo"/>
+<span style="display:inline-block; width:80px"></span>
+<img src="images/sponsors/mclaren.png" height="90" alt="McLaren logo"/>
+</div>
+<h1 style="padding:10px"></h1>
+<div class="w3-center">
+<img src="images/sponsors/marshall.png" height="85" alt="Marshall logo"/>
+<span style="display:inline-block; width:100px"></span>
+<img src="images/sponsors/cues.png" height="65" alt="CUES logo"/>
+</div>
+<h1 style="padding:10px"></h1>
+<div class="w3-center">
+<img src="images/sponsors/huawei.png" height="150" alt="Huawei logo"/>
+</div>
+</div>
+
 <h1 style="padding:100px"></h1>
 
 <footer>
