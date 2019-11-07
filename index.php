@@ -32,7 +32,7 @@
 <div class="w3-card-4 w3-rest" style="max-width:700px">
 <div class="w3-white w3-padding-large">
 <h5>
-We are a relatively new student-run society founded in October 2017 by two CUED students. Currently the society has <b>8 members</b>. Our primary aim is to <b>compete</b> in the annual <i><b><a href="http://www.imeche.org/events/challenges/uas-challenge" target="_blank">Unmanned Air Systems Challenge (UAS Challenge)</a></b></i> held by the <b>Institution of Mechanical Engineers (IMechE)</b>. This project leads us to design and build every part of an autonomous drone, from the airframe, through to the flight control system, and the aircraft electronics. Most of the work for our <i>Mark I</i> drone has been completed and the drone itself is nearly ready for its maiden flight.
+We are a relatively new student-run society founded in October 2017 by two CUED students. Our primary aim is to <b>compete</b> in the annual <i><b><a href="http://www.imeche.org/events/challenges/uas-challenge" target="_blank">Unmanned Air Systems Challenge (UAS Challenge)</a></b></i> held by the <b>Institution of Mechanical Engineers (IMechE)</b>. This project leads us to design and build every part of an autonomous drone, from the airframe, through to the flight control system, and the aircraft electronics. Our <i>Mark I</i> drone has been completed and the maiden flight took place in June 2019 at West Cambridge.
 </h5>
 </div>
 </div>

@@ -14,19 +14,17 @@
 </div>
 
 <div class="w3-half">
-<div class="w3-card-4 w3-white" style="width:95%; max-width:400px; ">
-<img src="../images/committee/Ximin.jpg" alt="Ximin Sun" style="width:100%;opacity:0.85">
+<div class="w3-card-4 w3-white" style="width:95%; max-width:304px; ">
+<img src="../images/committee/nat.jpg" alt="Nathanael West" style="width:100%;opacity:0.85">
 <div class="w3-container">
-<h4><b>Ximin (<u>Sonny</u>) Sun</b></h4>
-<h4>President</h4>
-<h6>CRSid: <code>xs264</code></h6>
-<p>Sonny is a 4-th year student specialising in Aerospace and Aerothermal engineering. He joined the society in 2018. In his free time he likes Flight simulators on PC. He is also having flying lessons towards an PPL (Private Pilot License).</p>
+<h4><b>Nathanael (<u>Nat</u>) West</b></h4>
+<h4>President and Treasurer</h4>
+<h6>CRSid: <code>rnw29</code></h6>
+<p>Nat is a 4-th year student specialising in Aerothermal engineering. He is one of the two founding members of the society. In his free time he likes to do <a href="https://en.wikipedia.org/wiki/Gliding">gliding</a> and occasionally powerlifting.</p>
 </div>
 </div>
 </div>
 
-
-<!--
 <div class="w3-half">
 <div class="w3-card-4 w3-white" style="width:95%; max-width:304px; ">
 <img src="../images/committee/phil.jpg" alt="Philip Salmony" style="width:100%;opacity:0.85">
@@ -38,7 +36,6 @@
 </div>
 </div>
 </div>
--->
 
 </div>
 
