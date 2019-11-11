@@ -20,7 +20,7 @@
 <h4><b>Ximin (<u>Sonny</u>) Sun</b></h4>
 <h4>President</h4>
 <h6>CRSid: <code>xs264</code></h6>
-<p>Sonny is a 4-th year student specialising in Aerospace and Aerothermal engineering. He joined the society in 2018. In his free time he likes Flight simulators on PC. He is also having flying lessons towards an PPL (Private Pilot License).</p>
+<p>Sonny is a 4-th year student specialising in Aerospace and Aerothermal Engineering. He joined the society in 2018. In his free time he likes Flight simulators on PC. He is also having flying lessons towards a PPL (Private Pilot License).</p>
 </div>
 </div>
 </div>
