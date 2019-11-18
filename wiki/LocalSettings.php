@@ -124,7 +124,14 @@ wfLoadSkin( 'MonoBook' );
 wfLoadSkin( 'Timeless' );
 wfLoadSkin( 'Vector' );
 
+# disable editing by anonymous users
 $wgGroupPermissions['*']['edit'] = false;
+# disable non sysop users from editing
+$wgGroupPermissions['user']['edit'] = false;
+# allow sysops to edit
+$wgGroupPermissions['sysop']['edit'] = true;
+# disable account creation by anonymous users
+$wgGroupPermissions['*']['createaccount'] = false;
 $wgArticleCountMethod = 'any';
 $wgUseCommaCount = true;
 
