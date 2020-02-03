@@ -55,10 +55,6 @@ We are a relatively new student-run society founded in October 2017 by two CUED 
 <span style="display:inline-block; width:100px"></span>
 <img src="images/sponsors/cues.png" height="65" alt="CUES logo"/>
 </div>
-<h1 style="padding:10px"></h1>
-<div class="w3-center">
-<img src="images/sponsors/huawei.png" height="150" alt="Huawei logo"/>
-</div>
 </div>
 
 <h1 style="padding:100px"></h1>
